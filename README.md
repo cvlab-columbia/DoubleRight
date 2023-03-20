@@ -2,7 +2,7 @@
 
 
 ## Data Collection
-We provide the data collected through this procedure. For convenience, we provide a shortcut to those downloaded images [here][https://cv.cs.columbia.edu/mcz/DoubleRight.zip].
+We provide the data collected through this procedure. For convenience, we provide a shortcut to those downloaded images [here](https://cv.cs.columbia.edu/mcz/DoubleRight.zip).
 However, we do not own any of the images, and individual image will be deleted upon request.
 
 You can also rerun the pipeline and recollect your own version of dataset.
