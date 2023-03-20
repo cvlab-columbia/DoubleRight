@@ -1,0 +1,85 @@
+{
+    "airplane": [
+        "metal body",
+        "wings",
+        "engines",
+        "landing gear",
+        "a tail",
+        "windows"
+    ],
+    "automobile": [
+        "a metal frame",
+        "four inflated rubber tires",
+        "an engine",
+        "a steering wheel",
+        "one or more doors",
+        "windows",
+        "a set of headlights and taillights"
+    ],
+    "bird": [
+        "feathers",
+        "beak",
+        "two legs",
+        "two wings",
+        "often brightly colored",
+        "can fly"
+    ],
+    "cat": [
+        "black, grey, white, or brown fur",
+        "a long tail",
+        "large, round eyes",
+        "small, pointed ears",
+        "a triangular face",
+        "four legs",
+        "sharp claws"
+    ],
+    "deer": [
+        "brown or reddish brown",
+        "white spots on the fur",
+        "long ears",
+        "long neck",
+        "four legs",
+        "hooves",
+        "antlers (on male deer)"
+    ],
+    "dog": [
+        "a wet nose",
+        "four legs",
+        "a tail",
+        "furry body",
+        "ears",
+        "eyes"
+    ],
+    "frog": [
+        "green, brown, or grey",
+        "wet and slimy skin",
+        "large eyes",
+        "long legs",
+        "webbed feet",
+        "a long, sticky tongue"
+    ],
+    "horse": [
+        "a large, four-legged mammal",
+        "a long neck",
+        "a mane of hair on its head",
+        "a tail",
+        "hooves"
+    ],
+    "ship": [
+        "a large, rectangular body",
+        "one or more sails",
+        "a mast to support the sails",
+        "a flag",
+        "a hull for carrying cargo or passengers",
+        "a rudder for steering",
+        "a bow and stern"
+    ],
+    "truck": [
+        "a large, rectangular body",
+        "four wheels",
+        "a cab for the driver",
+        "a bed for carrying cargo",
+        "a tailgate",
+        "headlights and taillights"
+    ]
+}
