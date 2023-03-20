@@ -21,7 +21,7 @@
 
 # Doubly Right Object Recognition Benchmark
 
-| Defence Method 	| Submitted By    	| DR Accuracy<br>(CIFAR10) | DR Accuracy<br>(CIFAR100) 	  |DR Accuracy<br>(Food101) 	  |DR Accuracy<br>(Caltech101) 	  | DR Accuracy<br>(ImageNet) 	  | Submission Date 	|
+| Defence Method 	| Submitted By    	| DR Accuracy<br>(CIFAR10) | DR Accuracy<br>(CIFAR100) 	  |DR Accuracy<br>(Food101) 	  |DR Accuracy<br>(Caltech101) 	  | DR Accuracy<br>(SUN) | DR Accuracy<br>(ImageNet) 	  | Submission Date 	|
 |----------------	|-----------------	|----------------	|-----------------	|-----------------	|
 |       Why Prompt        | (initial entry) 	|      |              |                |              |              |              |    Mar 1, 2023        |
 |       CLIP        | (initial entry) 	|       |              |              |              |              |              |      Mar 1, 2023        |
