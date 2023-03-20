@@ -23,8 +23,8 @@
 
 | Defence Method 	| Submitted By    	| DR Accuracy<br>(CIFAR10) | DR Accuracy<br>(CIFAR100) 	  |DR Accuracy<br>(Food101) 	  |DR Accuracy<br>(Caltech101) 	  | DR Accuracy<br>(SUN) | DR Accuracy<br>(ImageNet) 	  | Submission Date 	|
 |----------------	|-----------------	|----------------	|-----------------	|-----------------	|-----------------	|-----------------	|-----------------	|-----------------	|
-|       Why Prompt        | (initial entry) 	|      |              |                |              |              |              |    Mar 1, 2023        |
-|       CLIP        | (initial entry) 	|       |              |              |              |              |              |      Mar 1, 2023        |
+|       Why Prompt        | (initial entry) 	|   70.82   |     22.27        |        25.27        |        23.64      |  6.70            |     3.63         |    Mar 1, 2023        |
+|       CLIP        | (initial entry) 	|    42.57   |      6.43         |       5.73       |        5.99      |     0.94         |      0.68        |      Mar 1, 2023        |
 
 
 ## Data Collection
