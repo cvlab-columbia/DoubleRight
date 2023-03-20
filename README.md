@@ -15,7 +15,7 @@
     <a href="https://xinw.ai/"><strong>Xin Wang</strong></a>
     ·
     <a href="http://www.cs.columbia.edu/~vondrick/"><strong>Carl Vondrick</strong></a></p>
-    <p align="center" margin-top="0px"><a href="https://arxiv.org/abs/2212.07016">https://arxiv.org/abs/2212.07016</a></p>
+    <p align="center" margin-top="0px"><a href="https://arxiv.org/abs/">arxiv</a></p>
 </p>
 
 
@@ -23,7 +23,6 @@
 
 | Defence Method 	| Submitted By    	| DR Accuracy<br>(CIFAR10) | DR Accuracy<br>(CIFAR100) 	  | Submission Date 	|
 |----------------	|-----------------	|----------------	|-----------------	|-----------------	|
-
 |       Why Prompt        | (initial entry) 	|      |              |      Mar 1, 2023        |
 |       CLIP        | (initial entry) 	|       |              |      Mar 1, 2023        |
 
