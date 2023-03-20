@@ -27,6 +27,8 @@
 |       CLIP        | (initial entry) 	|    42.57   |      6.43         |       5.73       |        5.99      |     0.94         |      0.68        |      Mar 1, 2023        |
 
 
+We welcome people to submit new results to this leaderboard.
+
 ## Data Collection
 We provide the data collected through this procedure. For convenience, we provide a shortcut to those downloaded images [here](https://cv.cs.columbia.edu/mcz/DoubleRight.zip).
 However, we do not own any of the images, and individual image will be deleted upon request.
